@@ -1,0 +1,4 @@
+[submodule "template/components/arduino"]
+	path = template/components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
+	branch = idf-release/v5.1
